@@ -1,0 +1,30 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#superior {
+    background-color: darkslategray;
+    font-size: xx-large;
+    color: greenyellow;
+    font-style: italic;
+}
+
+#seccio_1 {
+    background-color: royalblue;
+    color: rgb(62, 147, 62);
+}
+
+#seccio_2 {
+    background-color: aquamarine;
+    color: rgb(62, 147, 62);
+}
+
+#seccio_3 {
+    background-color: darkcyan;
+    color: rgb(62, 147, 62);
+}
+
+#seccio_4 {
+    background-color: dodgerblue;
+    color: rgb(62, 147, 62);
+}
